@@ -8,6 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Nice+To+Meet+You+...;Networking+enthusiast;Keen+for+Cybersecurity;Python+programmer;&center=true"></a>
 </p>
 
+## Follow me on:
 <a href="https://www.linkedin.com/in/ved-bulsara-294637225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="" height="30" />
 </a>
 <!--Profile view counter-->
