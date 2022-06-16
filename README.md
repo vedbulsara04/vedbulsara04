@@ -1,7 +1,7 @@
 <!-- *vedbulsara04/vedbulsara04* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h1> Hey, I’m Ved! 
-  <img src="https://media.giphy.com/media/l0Hlw1wlzvxTvxiZG/giphy.gif" width="15px">
+  <img src="https://media.giphy.com/media/l0Hlw1wlzvxTvxiZG/giphy.gif">
 </h1>
   
 <a href="https://www.linkedin.com/in/ved-bulsara-294637225/">
