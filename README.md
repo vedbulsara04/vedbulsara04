@@ -7,10 +7,7 @@
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 </p>
-  
-<a href="https://www.linkedin.com/in/ved-bulsara-294637225/">
-  <img align="left" alt="Ved| LinkedIN" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 <a href="https://www.linkedin.com/in/ved-bulsara-294637225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="" height="30" />
 </a>
 <!--Profile view counter-->
