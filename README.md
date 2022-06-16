@@ -13,7 +13,6 @@
 <!--Profile view counter-->
 ![view count](https://komarev.com/ghpvc/?username=vedbulsara04&color=blueviolet)
 
-<br>
 
 ### About Me 🚀
 
