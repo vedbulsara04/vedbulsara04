@@ -1,17 +1,24 @@
 <!-- *vedbulsara04/vedbulsara04* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<h1> Hey, I’m Ved!</h1>
+<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I am Ved Bulsara</h1>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+</p>
   
 <a href="https://www.linkedin.com/in/ved-bulsara-294637225/">
   <img align="left" alt="Ved| LinkedIN" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<a href="https://www.linkedin.com/in/ved-bulsara-294637225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="" height="30" />
+</a>
 <!--Profile view counter-->
 ![view count](https://komarev.com/ghpvc/?username=vedbulsara04&color=blueviolet)
 
 <br>
 
-Hello! I am Ved Bulsara, curious and passionate about Linux systems, Python, Networking and Cybersecurity.
+### About Me 🚀
 
 <ul>
 <li> 🌱 I’m currently pursuing Diploma in Information Technology at Shri Bhagubhai Mafatlal Polytechnic </li>
