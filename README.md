@@ -7,7 +7,7 @@
 </a>
 
 <!--Profile view counter-->
-![view count](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![view count](https://komarev.com/ghpvc/?username=vedbulsara04&color=blueviolet)
 
 <br>
 
