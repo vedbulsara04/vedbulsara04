@@ -2,7 +2,7 @@
 - 👀 I’m interested in Network Security and Cyber-security
 - 🌱 I’m currently pursuing my Diploma in Information Technology
 - 📫 How to reach me :
-![Linkedin](linkedin_logo.jpg)
+![Linkedin](linkedin_logo.png)
 [Linkedin](https://www.linkedin.com/in/ved-bulsara-294637225/)
 
 <!---
