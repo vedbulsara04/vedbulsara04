@@ -21,4 +21,4 @@ Hello! I am Ved Bulsara, curious and passionate about Linux systems, Python, Net
 
   <hr>
 </a>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l8f872n5yrzo7qabtdtnbmzdh&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=l8f872n5yrzo7qabtdtnbmzdh&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l8f872n5yrzo7qabtdtnbmzdh&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
