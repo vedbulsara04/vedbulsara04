@@ -11,6 +11,8 @@
 ## Follow me on:
 <a href="https://www.linkedin.com/in/ved-bulsara-294637225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="" height="30" />
 </a>
+<a href="https://linktr.ee/vedbulsara04" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Linktree.svg" alt="" height="30" />
+</a>
 <!--Profile view counter-->
 ![view count](https://komarev.com/ghpvc/?username=vedbulsara04&color=blueviolet)
 
