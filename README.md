@@ -15,6 +15,9 @@
 - <a href="https://linktr.ee/vedbulsara04" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Linktree.svg" alt="" height="30" />
 </a>
 
+- <a href="https://vedbulsara04.github.io/cv/" target="blank">My CV as a Website</a>
+
+
 <!--Profile view counter-->
 ![view count](https://komarev.com/ghpvc/?username=vedbulsara04&color=blueviolet)
 
