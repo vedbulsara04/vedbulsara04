@@ -35,14 +35,6 @@
   <hr>
 </a>
 
-**Languages and Tools:**  
-
-<a href="https://github.com/vedbulsara04">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedbulsara04&theme=dark&count_private=true&layout=compact" alt="Ved's most used languages" />
-</a>
-<a href="https://github.com/vedbulsara04">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vedbulsara04&show_icons=true&theme=dark&line_height=27&width=60&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Ved's github stats"/>
-</a>
 
 
 
