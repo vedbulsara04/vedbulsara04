@@ -19,7 +19,8 @@
 
 
 <!--Profile view counter-->
-![Profile views](https://github.com/vedbulsara04.m.pipedream.net)
+![GitHub profile views](https://komarev.com/ghpvc/?username=vedbulsara04&color=FAC151)
+
 
 
 ### About Me 🚀
