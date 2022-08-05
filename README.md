@@ -12,7 +12,7 @@
 - <a href="https://www.linkedin.com/in/ved-bulsara-294637225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="" height="30" />
 </a> Linkedin
 
-- <a href="https://linktr.ee/vedbulsara04" target="blank"><img align="center" src="linktree_logo.png" alt="" height="30" />
+- <a href="https://linktr.ee/vedbulsara04" target="blank"><img align="center" src="https://github.com/vedbulsara04/vedbulsara04/blob/main/linkrtee_logo.png" alt="" height="30" />
 </a>
 
 - <a href="https://vedbulsara04.github.io/ved_cv/" target="blank">My CV as a Website</a>
