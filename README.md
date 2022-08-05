@@ -35,6 +35,10 @@
   <hr>
 </a>
 
+[![Ved's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedbulsara04&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ved's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vedbulsara04&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 
 
