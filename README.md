@@ -1,50 +1,28 @@
-<!-- *vedbulsara04/vedbulsara04* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+![GitHub profile views](https://komarev.com/ghpvc/?username=vedbulsara04&color=31E1F7)
 
-<h1 align="center"><img src="https://media.giphy.com/media/ej7igTmxTWhpYlrwUI/giphy.gif" height="60px" width="85px">, I am Ved Bulsara</h1>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Nice+To+Meet+You+...;Networking+enthusiast...;Keen+for+Cybersecurity...;Python+programmer...;Git+geek+🙃;&center=true"></a>
-</p>
-
-## Follow me on:
-- <a href="https://www.linkedin.com/in/ved-bulsara-294637225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="" height="30" />
-</a> Linkedin
-
-- <a href="https://linktr.ee/vedbulsara04" target="blank"><img align="center" src="https://github.com/vedbulsara04/vedbulsara04/blob/main/linkrtee_logo.png" alt="" height="30" />
-</a>
-
-- <a href="https://vedbulsara04.github.io/ved_cv/" target="blank">My CV as a Website</a>
+# 💫 About Me:
+👉🏼 <a href="https://vedbulsara.netlify.app/">My Website</a> 👈🏼<br>
+🌱 I’m currently pursuing Diploma in Information Technology at Shri Bhagubhai Mafatlal Polytechnic<br>
+💼 Wanna colab on Projects? do reach my  <a href="mailto:vedbulsara7@yahoo.com">email</a><br>
+👨‍💻 I am currently upgrading my skills in Python🐍, Linux💻, Networking and Cyber-Security🕵️‍♂️<br>
+🎯 My interests are Network Engineering and Cyber-Security<br>⚡ Fun fact : There are HIDDEN BLESSINGS in EVERY STRUGGLE💫
 
 
-<!--Profile view counter-->
-![GitHub profile views](https://komarev.com/ghpvc/?username=vedbulsara04&color=FAC151)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedbulsara04/) 
 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vedbulsara04&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vedbulsara04&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedbulsara04&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### About Me 🚀
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-<ul>
-<li> 🌱 I’m currently pursuing Diploma in Information Technology at Shri Bhagubhai Mafatlal Polytechnic </li>
-<li> 💼 Wanna colab on Projects? do reach my <a href="mailto:vedbulsara7@yahoo.com">email</a></li>
-<li> 👨‍💻 I am currently upgrading my skills in Python🐍, Linux💻, Networking and Cyber-Security🕵️‍♂️</li>
-<li> 🎯 My interests are Network Security and Cyber-Security</li>
-<li> ⚡ Fun fact : There are HIDDEN BLESSINGS in EVERY STRUGGLE💫</li>
-</ul>
-
-  <hr>
-</a>
-
-[![Ved's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedbulsara04&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedbulsara04&show_icons=true&theme=radical)
-
-[![Ved's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vedbulsara04&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
-
-
-
-
-
+---
+[![](https://visitcount.itsvg.in/api?id=vedbulsara04&icon=0&color=0)](https://visitcount.itsvg.in)
