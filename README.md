@@ -1,12 +1,15 @@
 <img align="center" src="https://media.giphy.com/media/xndHaRIcvge5y/giphy.gif" width="225px">
 
+<img align="center" src="linux.gif" width="225px">
+<br>
+
 <h2 align="center"> In Linus Torvalds We Trust 🕊✌ </h2>
 <h5> P.S : The above pic is of Linus Torvalds the Creator of the godly Linux Kernel </h5>
   
 ![GitHub profile views](https://komarev.com/ghpvc/?username=vedbulsara04&color=31E1F7)
 
 # 💫 About Me:
-<iframe src="https://giphy.com/embed/l0Hlw1wlzvxTvxiZG" width="480" height="433" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jerseydemic-l0Hlw1wlzvxTvxiZG">via GIPHY</a></p>
+
 👉🏼 <a href="https://vedbulsara.netlify.app/">My Website</a> 👈🏼<br>
 🌱 I’m currently pursuing Diploma in Information Technology at Shri Bhagubhai Mafatlal Polytechnic<br>
 💼 Wanna colab on Projects? do reach my  <a href="mailto:vedbulsara7@yahoo.com">email</a><br>
