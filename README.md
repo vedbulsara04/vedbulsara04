@@ -27,11 +27,17 @@
 <p>
 
 # 📊 GitHub Stats:
+  
 <p align="center">
-![](https://github-readme-stats.vercel.app/api?username=vedbulsara04&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vedbulsara04&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedbulsara04&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<p>
-
+<img width="800" src="https://github-profile-trophy.vercel.app/?username=vedbulsara04&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=radical" />
+<br>
+  <a href="https://vedbulsara.netlify.app/">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vedbulsara04&show_icons=true&theme=radical" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=vedbulsara04&theme=radical" />
+   <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vedbulsara04&theme=radical&layout=compact" /> 
+  </a>
+</p>
+</a>
+ 
 ---
 
