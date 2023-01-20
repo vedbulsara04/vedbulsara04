@@ -1,4 +1,6 @@
 <img align="center" src="https://media.giphy.com/media/xndHaRIcvge5y/giphy.gif" width="225px">
+<img align="center" src="https://media.giphy.com/media/l0Hlw1wlzvxTvxiZG/giphy.gif" width="225px">
+
 <h2 align="center"> In Linus Torvalds We Trust 🕊✌ </h2>
 <h5> P.S : The above pic is of Linus Torvalds the Creator of the Godly Linux Kernel </h5>
   
