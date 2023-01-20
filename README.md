@@ -39,5 +39,6 @@
 </p>
 </a>
  
+<a href="https://quine.sh/profile/vedbulsara04"><img src="https://stats.quine.sh/vedbulsara04/github" alt="vedbulsara04's GitHub stats" width="840px"></a>
 ---
 
