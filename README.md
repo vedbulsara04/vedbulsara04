@@ -20,6 +20,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vedbulsara04&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## ✔Contribution Graph
+<p align="center">
+  <img width="800" src="https://github-readme-activity-graph.cyclic.app/graph?username=vedbulsara04"/>
+  <br>
+<p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vedbulsara04&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vedbulsara04&theme=radical&hide_border=false)<br/>
