@@ -2,7 +2,7 @@
 <br>
 
 <h2 align="center"> In Linus Torvalds We Trust 🕊✌ </h2>
-<h5> P.S : The above pic is of Linus Torvalds the Creator of the godly Linux Kernel </h5>
+<h5> P.S : Linus Torvalds is the Creator of the godly Linux Kernel </h5>
   
 ![GitHub profile views](https://komarev.com/ghpvc/?username=vedbulsara04&color=31E1F7)
 
