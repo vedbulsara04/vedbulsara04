@@ -1,5 +1,3 @@
-<img align="center" src="https://media.giphy.com/media/xndHaRIcvge5y/giphy.gif" width="225px">
-
 <img align="right" src="linux.gif" width="225px">
 <br>
 
