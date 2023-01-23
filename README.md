@@ -12,7 +12,7 @@
 🌱 I’m currently pursuing Diploma in Information Technology at Shri Bhagubhai Mafatlal Polytechnic<br>
 💼 Wanna colab on Projects? do reach my  <a href="mailto:vedbulsara7@yahoo.com">email</a><br>
 👨‍💻 I am currently upgrading my skills in Python🐍, Linux💻, Networking and Cyber-Security🕵️‍♂️<br>
-🎯 My interests are Network & Cyber Security, Devops, DevSecops.<br>⚡ Fun fact : There are HIDDEN BLESSINGS in EVERY STRUGGLE💫
+🎯 My interests are Network & Cyber Security, DevOps, DevSecOps.<br>⚡ Fun fact : There are HIDDEN BLESSINGS in EVERY STRUGGLE💫
 
 
 ## 🌐 Socials:
