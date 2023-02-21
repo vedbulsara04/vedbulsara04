@@ -36,7 +36,6 @@
 # 📊 GitHub Stats:
   
 <p align="center">
-<img width="800" src="https://github-profile-trophy.vercel.app/?username=vedbulsara04&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=radical" />
 <br>
   <a href="https://vedbulsara.netlify.app/">
   <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vedbulsara04&show_icons=true&theme=radical" />
