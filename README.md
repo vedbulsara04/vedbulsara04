@@ -45,6 +45,9 @@
 </p>
 </a>
  
-<a href="https://quine.sh/profile/vedbulsara04"><img src="https://stats.quine.sh/vedbulsara04/github" alt="vedbulsara04's GitHub stats" width="840px"></a>
+<a href="https://quine.sh/profile/vedbulsara04"><img src="https://stats.quine.sh/vedbulsara04/github" alt="vedbulsara04's GitHub stats" width="500px"></a>
+
+[![vedbulsara04's GitHub | Languages Over Time](https://stats.quine.sh/vedbulsara04/languages-over-time?theme=light)](https://quine.sh)
+
 ---
 
