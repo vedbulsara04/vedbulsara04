@@ -6,16 +6,16 @@
   
 ![GitHub profile views](https://komarev.com/ghpvc/?username=vedbulsara04&color=31E1F7)
 
-# 💫 About Me:
+## 💫 About Me
 
 👉🏼 <a href="https://vedbulsara.netlify.app/">My Website</a> 👈🏼<br>
 🌱 I’m currently pursuing Diploma in Information Technology at Shri Bhagubhai Mafatlal Polytechnic<br>
 💼 Wanna colab on Projects? do reach my  <a href="mailto:vedbulsara7@yahoo.com">email</a><br>
 👨‍💻 I am currently upgrading my skills in Python🐍, Linux💻, Networking and Cyber-Security🕵️‍♂️<br>
-🎯 My interests are Network & Cyber Security, DevOps, DevSecOps.<br>⚡ Fun fact : There are HIDDEN BLESSINGS in EVERY STRUGGLE💫
+🎯 My interests are Network Security & DevSecOps<br>⚡ Fun fact : There are HIDDEN BLESSINGS in EVERY STRUGGLE💫
 
 
-## 🌐 Socials:
+## 🌐 Socials
 
 <div align="center">
 <a href="https://linkedin.com/in/vedbulsara04/" target="_blank">
@@ -30,7 +30,7 @@
 
 
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -65,19 +65,13 @@
 
 <br/>  
 
-## Hacktoberfest2022 🕵️‍♂️
-[![@vedbulsara04's Holopin board](https://holopin.me/vedbulsara04)](https://holopin.io/@vedbulsara04)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vedbulsara04&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ## ✔Contribution Graph
 <p align="center">
   <img width="800" src="https://github-readme-activity-graph.cyclic.app/graph?username=vedbulsara04"/>
   <br>
 <p>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
   
 <p align="center">
 <br>
@@ -88,6 +82,12 @@
   </a>
 </p>
 </a>
- 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vedbulsara04&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## Hacktoberfest2022 🕵️‍♂️
+[![@vedbulsara04's Holopin board](https://holopin.me/vedbulsara04)](https://holopin.io/@vedbulsara04)
+
 ---
 
