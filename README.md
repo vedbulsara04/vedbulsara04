@@ -66,10 +66,11 @@
 <br/>  
 
 ## ✔Contribution Graph
-<p align="center">
+<!-- <p align="center">
   <img width="800" src="https://github-readme-activity-graph.cyclic.app/graph?username=vedbulsara04"/>
   <br>
-<p>
+<p> -->
+[![Ved's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedbulsara04&&theme=merko&custom_title=Ved's%20Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📊 GitHub Stats
   
