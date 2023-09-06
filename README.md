@@ -9,7 +9,7 @@
 ## 💫 About Me
 
 👉🏼 <a href="https://vedbulsara.netlify.app/">My Website</a> 👈🏼<br>
-🌱 I’m currently pursuing Diploma in Information Technology at Shri Bhagubhai Mafatlal Polytechnic<br>
+🌱 I’m currently pursuing B.Tech in Computer Engineering<br>
 💼 Wanna colab on Projects? do reach my  <a href="mailto:vedbulsara7@yahoo.com">email</a><br>
 👨‍💻 I am currently upgrading my skills in Python🐍, Linux💻, Networking and Cyber-Security🕵️‍♂️<br>
 🎯 My interests are Network Security & DevSecOps<br>⚡ Fun fact : There are HIDDEN BLESSINGS in EVERY STRUGGLE💫
