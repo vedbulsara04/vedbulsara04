@@ -83,9 +83,12 @@
 </p>
 </a>
 
+<!--
 ## 🏆 GitHub Trophies
+[![](https://github-profile-trophy.vercel.app/?username=vedbulsara04&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-profile-trophy.vercel.app/?username=vedbulsara04&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+ -->
+ 
 ## Hacktoberfest2022 🕵️‍♂️
 [![@vedbulsara04's Holopin board](https://holopin.me/vedbulsara04)](https://holopin.io/@vedbulsara04)
 
