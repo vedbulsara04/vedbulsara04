@@ -25,7 +25,7 @@
 
 </br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l8f872n5yrzo7qabtdtnbmzdh&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=00ff2a&bar_color_cover=false)](https://github.com/vedbulsara04/)
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l8f872n5yrzo7qabtdtnbmzdh&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=00ff2a&bar_color_cover=false)](https://github.com/vedbulsara04/) -->
 
 
 
