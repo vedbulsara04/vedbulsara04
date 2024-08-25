@@ -1,9 +1,9 @@
-<img align="right" src="linux.gif" width="225px">
-<br>
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJ5NGNjZnJ4cDQxdnpuMnE1bDU5bGo5ZHVmZjJ4ZDhndWFzZXZjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NLHq5dOtUtOUEjOr7W/giphy.gif" width="">
+<br> <br>
+<br> <br>
+<br> <br>
+<br> <br>
 
-<h2 align="center"> In Linus Torvalds We Trust 🕊✌ </h2>
-<h5> P.S : Linus Torvalds is the Creator of the almighty Linux Kernel </h5>
-  
 ![GitHub profile views](https://komarev.com/ghpvc/?username=vedbulsara04&color=31E1F7)
 
 ## 💫 About Me
