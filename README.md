@@ -1,9 +1,4 @@
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJ5NGNjZnJ4cDQxdnpuMnE1bDU5bGo5ZHVmZjJ4ZDhndWFzZXZjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NLHq5dOtUtOUEjOr7W/giphy.gif" width="">
-<br> <br>
-<br> <br>
-<br> <br>
-<br> <br>
-<br> <br>
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=790b7611v0pghkm850qinobfvd9oxajt1xfe5w0ff3josjt6&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="">
 
 ![GitHub profile views](https://komarev.com/ghpvc/?username=vedbulsara04&color=31E1F7)
 
