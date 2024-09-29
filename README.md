@@ -1,4 +1,7 @@
-<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=790b7611v0pghkm850qinobfvd9oxajt1xfe5w0ff3josjt6&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="">
+<img align="right" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=790b7611v0pghkm850qinobfvd9oxajt1xfe5w0ff3josjt6&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="">
+
+<br><br>
+<br><br>
 
 ![GitHub profile views](https://komarev.com/ghpvc/?username=vedbulsara04&color=31E1F7)
 
