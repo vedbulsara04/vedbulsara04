@@ -13,7 +13,6 @@
 👨‍💻 I am currently upskilling in scripting for automation using Python, Bash & Powershell;<br> Cloud Computing, DevOps, Computer Networks & Cyber-Security.<br>
 🎯 My interests are Cloud Computing & DevOps<br>⚡ Fun fact : There are HIDDEN BLESSINGS in EVERY STRUGGLE💫
 
-
 ## 🌐 Socials
 
 <p align="center">
@@ -27,11 +26,7 @@
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
-</br>
-
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l8f872n5yrzo7qabtdtnbmzdh&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=00ff2a&bar_color_cover=false)](https://github.com/vedbulsara04/) -->
-
-
 
 ## 💻 Tech Stack
 
@@ -60,9 +55,6 @@
     <img src="https://skillicons.dev/icons?i=tailwindcss,bootstrap,nodejs,express,mysql,nginx&perline=6" />
   </a>
 </p>
-
-
-<br/>  
 
 ## ✔Contribution Graph
 <!-- <p align="center">
