@@ -37,12 +37,12 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,vim,bash,powershell,python&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes&perline=6" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes&perline=6" />
+    <img src="https://skillicons.dev/icons?i=vscode,vim,bash,powershell,python,go&perline=6" />
   </a>
 </p>
 <p align="center">
