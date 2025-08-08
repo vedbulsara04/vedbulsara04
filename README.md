@@ -10,8 +10,6 @@
 👉🏼 <a href="https://vedbulsara.netlify.app/">Visit My Website</a> 👈🏼<br>
 🌱 I’m currently pursuing B.Tech in Computer Engineering<br>
 💼 Wanna colab on Projects? do reach my  <a href="mailto:vedbulsara7@gmail.com">email</a><br>
-👨‍💻 I am currently upskilling in scripting for automation using Python, Bash & Powershell;<br> Cloud Computing, DevOps, Computer Networks & Cyber-Security.<br>
-🎯 My interests are Cloud Computing & DevOps<br>⚡ Fun fact : There are HIDDEN BLESSINGS in EVERY STRUGGLE💫
 
 ## 🌐 Socials
 
