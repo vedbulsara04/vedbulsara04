@@ -64,7 +64,7 @@
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=vedbulsara04&theme=radical&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=vedbulsara04&theme=radical&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedbulsara04&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=vedbulsara04&theme=radical&hide_border=false)<br/>
+
   
 <!--   <a href="https://vedbulsara.netlify.app/">
   <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vedbulsara04&show_icons=true&theme=radical" />
