@@ -67,7 +67,7 @@
 <br>
   <a href="https://vedbulsara.netlify.app/">
   <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vedbulsara04&show_icons=true&theme=radical" />
-  <img width="400" src="https://streak-stats.demolab.com/?user=vedbulsara04&theme=radical" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=vedbulsara04&theme=radical" />
    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vedbulsara04&theme=radical&layout=compact" /> 
   </a>
 </p>
