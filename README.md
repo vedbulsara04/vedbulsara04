@@ -63,8 +63,18 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=vedbulsara04&theme=radical&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=vedbulsara04&theme=radical&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedbulsara04&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<p align="center">
+  <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=vedbulsara04&show_icons=true&theme=radical">
+    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vedbulsara04&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=vedbulsara04&theme=radical">
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=vedbulsara04&theme=radical" />
+  </a>
+  <a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vedbulsara04&theme=radical&layout=compact">
+    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vedbulsara04&theme=dark&layout=compact" /> 
+  </a>
+</p>
+</a>
   
 <!--   <a href="https://vedbulsara.netlify.app/">
   <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vedbulsara04&show_icons=true&theme=radical" />
