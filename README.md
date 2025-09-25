@@ -62,17 +62,10 @@
 [![Ved's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedbulsara04&&theme=merko&custom_title=Ved's%20Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📊 GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.vercel.kevinazemi.com?user=vedbulsara04&theme=radical)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vedbulsara04&show_icons=true&theme=radical)](https://github.com/vedbulsara04)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vedbulsara04&theme=radical&layout=compact)](https://github.com/vedbulsara04)
 
-<p align="center">
-  <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=vedbulsara04&show_icons=true&theme=radical">
-    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vedbulsara04&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=vedbulsara04&theme=radical">
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=vedbulsara04&theme=radical" />
-  </a>
-  <a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vedbulsara04&theme=radical&layout=compact">
-    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vedbulsara04&theme=dark&layout=compact" /> 
-  </a>
 </p>
 </a>
   
